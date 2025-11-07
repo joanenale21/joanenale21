@@ -1,16 +1,43 @@
-## Hi there 👋
+## 🌟 Joan Enale
 
-<!--
-**joanenale21/joanenale21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Transforming Data into Meaningful Insights
 
-Here are some ideas to get you started:
+Hi! I’m **Joan**, a passionate data analyst who loves cleaning and transforming raw data into actionable insights. I enjoy exploring patterns, building dashboards, and helping turn data into decisions using tools like **Excel**, **Power BI**, and **SQL**.  
+My goal is to keep growing my analytical and visualization skills while applying them to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tools & Technologies
+
+- **Data Visualization:** Power BI, Tableau, Looker Studio  
+- **Data Analysis:** Microsoft Excel, Google Sheets, R  
+- **Databases & Querying:** SQL, MS SQL Server  
+- **Other Skills:** Data Cleaning, Data Transformation, Dashboard Design, Reporting
+
+---
+
+### 📊 Featured Projects
+
+**🧠 Google Data Analytics Capstone Project**  
+*Analyzed a dataset from a fictional fitness company to identify user trends and provide actionable business recommendations.*  
+- Cleaned and prepared the dataset using **Excel and R**  
+- Visualized insights using **Power BI** and **Tableau**  
+- Focused on customer engagement and behavior trends  
+[🔗 View Project Repository](https://github.com/joanenale21/Bellabeat_Case_Study.git) 
+
+---
+
+### 📈 GitHub Stats
+
+![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joanenale21&show_icons=true&theme=default)  
+
+---
+
+### 🌐 Let’s Connect
+
+- [LinkedIn](www.linkedin.com/in/joan-enale)  
+- [Email Me](mailto:joandelalamon.enale@gmail.com)
+
+---
+
+✨ *“Data tells a story — and I’m here to bring it to life through insights and visuals.”*
