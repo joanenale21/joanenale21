@@ -35,7 +35,7 @@ My goal is to keep growing my analytical and visualization skills while applying
 
 ### 🌐 Let’s Connect
 
-- [LinkedIn](www.linkedin.com/in/joan-enale)  
+- [LinkedIn](https://www.linkedin.com/in/joan-enale)  
 - [Email Me](mailto:joandelalamon.enale@gmail.com)
 
 ---
